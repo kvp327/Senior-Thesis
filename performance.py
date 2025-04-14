@@ -1,3 +1,4 @@
+# Compare Optimal to single therapy (no switches) of Immuno, Chemoimmuno, and Chemo
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
